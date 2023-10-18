@@ -139,6 +139,11 @@ a:hover{
     transform: none;
 } 
 
+.logo-edit{
+  color: rgb(125, 125, 216);
+  font-weight: 600;
+}
+
 /* SECTIONS  */
 
 section{
